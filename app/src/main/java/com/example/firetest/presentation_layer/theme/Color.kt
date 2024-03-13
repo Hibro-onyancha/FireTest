@@ -1,4 +1,4 @@
-package com.example.firetest.ui.theme
+package com.example.firetest.presentation_layer.theme
 
 import androidx.compose.ui.graphics.Color
 

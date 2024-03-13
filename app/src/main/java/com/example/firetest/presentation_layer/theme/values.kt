@@ -1,4 +1,4 @@
-package com.example.firetest.ui.theme
+package com.example.firetest.presentation_layer.theme
 
 const val LARGE_SHAPE = 20
 const val MEDIUM_SHAPE = 15
