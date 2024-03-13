@@ -1,4 +1,4 @@
-package com.example.firetest
+package com.example.firetest.utils
 
 import androidx.compose.ui.text.AnnotatedString
 import androidx.compose.ui.text.input.OffsetMapping
